@@ -2,7 +2,7 @@
 #### The code and preprocessed data for "Constructing High-order Functional Connectivity Networks with Temporal Information from fMRI Data"
 
 <div align="center">
-<img src="pic/flowchart.png" alt="111" style="zoom:60%;" />
+<img src="pic/flowchat.png" alt="111" style="zoom:60%;" />
 </div>
 <div align="center">Fig.1. The flowchart comparison of (a) our proposed framework and (b) traditional high-order methods.</div>  
 <br/>
